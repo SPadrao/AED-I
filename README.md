@@ -1,5 +1,5 @@
 # AED-I
-Projetos que fiz durante o curso da UC Algoritmo e Estrutura de Dados I
+Alguns dos projetos que fiz durante o curso da UC Algoritmo e Estrutura de Dados I
 
 Sobre os exercícios:
 
